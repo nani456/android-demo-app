@@ -2,6 +2,7 @@ package io.bitrise.sample.android
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.Toast
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
